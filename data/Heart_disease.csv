@@ -1,0 +1,603 @@
+Age,Gender,Chest_Pain,Systolic_BP,Diastolic_BP,Cholesterol,Max_Heart_Beat,ST_Depression,ST_Slope,Result
+67,Male,regular,158,103,312,143,3.8,downward,Heart Disease
+28,Female,no pain,112,74,188,185,0.2,upward,No Heart Disease
+54,Male,sometimes,138,91,245,160,1.8,normal,Heart Disease
+78,Female,regular,172,110,340,121,4.5,downward,Heart Disease
+35,Male,no pain,121,80,205,178,0.5,upward,No Heart Disease
+42,Female,normal,128,84,220,171,0.9,normal,No Heart Disease
+61,Male,sometimes,149,96,277,151,2.5,downward,Heart Disease
+22,Female,no pain,108,70,180,193,0.1,upward,No Heart Disease
+90,Male,regular,188,118,360,108,5.2,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+73,Male,sometimes,162,105,321,135,3.1,downward,Heart Disease
+31,Female,no pain,115,76,194,182,0.3,upward,No Heart Disease
+58,Male,regular,155,101,298,148,3.4,downward,Heart Disease
+25,Female,normal,110,72,185,190,0.2,upward,No Heart Disease
+85,Male,sometimes,179,114,350,115,4.8,downward,Heart Disease
+46,Female,normal,130,85,225,168,1,normal,No Heart Disease
+69,Male,regular,165,108,330,130,4.1,downward,Heart Disease
+38,Female,no pain,124,81,210,175,0.6,upward,No Heart Disease
+51,Male,sometimes,142,93,260,163,2.1,normal,Heart Disease
+20,Female,no pain,105,68,175,195,0,upward,No Heart Disease
+76,Male,regular,170,109,338,124,4.3,downward,Heart Disease
+33,Female,normal,118,78,199,180,0.4,normal,No Heart Disease
+64,Male,sometimes,153,99,289,145,2.8,downward,Heart Disease
+27,Male,no pain,114,75,192,187,0.3,upward,No Heart Disease
+81,Female,regular,177,112,345,118,4.9,downward,Heart Disease
+44,Female,normal,129,86,228,169,1.1,normal,No Heart Disease
+60,Male,sometimes,147,95,270,154,2.3,normal,Heart Disease
+29,Female,no pain,113,73,190,184,0.2,upward,No Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+50,Female,normal,135,88,240,164,1.4,normal,No Heart Disease
+88,Male,regular,185,117,358,110,5,downward,Heart Disease
+24,Female,no pain,109,71,182,191,0.1,upward,No Heart Disease
+56,Male,sometimes,145,94,265,158,2.2,normal,Heart Disease
+75,Female,regular,171,109,339,123,4.4,downward,Heart Disease
+36,Male,no pain,122,81,208,177,0.5,upward,No Heart Disease
+43,Female,normal,127,83,218,170,0.8,normal,No Heart Disease
+63,Male,sometimes,151,97,283,149,2.7,downward,Heart Disease
+21,Female,no pain,107,69,178,194,0,upward,No Heart Disease
+92,Male,regular,190,120,365,105,5.4,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+70,Male,regular,166,106,333,129,3.9,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+26,Female,normal,111,72,187,189,0.2,upward,No Heart Disease
+83,Male,regular,180,115,352,116,4.7,downward,Heart Disease
+47,Female,normal,131,85,229,167,1,normal,No Heart Disease
+68,Male,sometimes,160,104,318,138,3.6,downward,Heart Disease
+37,Female,no pain,123,80,209,176,0.6,upward,No Heart Disease
+53,Male,regular,152,98,288,155,3,downward,Heart Disease
+23,Male,no pain,109,71,184,192,0.1,upward,No Heart Disease
+79,Female,regular,174,111,343,120,4.6,downward,Heart Disease
+40,Female,normal,125,82,215,173,0.7,normal,No Heart Disease
+65,Male,sometimes,156,101,301,142,3.2,downward,Heart Disease
+30,Female,no pain,114,74,191,183,0.3,upward,No Heart Disease
+71,Male,regular,167,107,334,127,4,downward,Heart Disease
+52,Female,normal,136,89,243,163,1.5,normal,No Heart Disease
+86,Male,regular,182,116,355,113,4.9,downward,Heart Disease
+28,Female,no pain,111,72,186,188,0.2,upward,No Heart Disease
+57,Male,sometimes,146,95,268,157,2.3,normal,Heart Disease
+80,Female,regular,176,112,347,119,4.8,downward,Heart Disease
+39,Male,no pain,123,81,212,176,0.6,upward,No Heart Disease
+45,Female,normal,128,84,223,169,0.9,normal,No Heart Disease
+62,Male,sometimes,150,97,280,150,2.6,downward,Heart Disease
+24,Female,no pain,110,71,183,190,0.1,upward,No Heart Disease
+94,Male,regular,192,121,368,103,5.5,downward,Heart Disease
+55,Female,normal,140,90,250,160,1.7,normal,Heart Disease
+74,Male,regular,169,108,336,126,4.2,downward,Heart Disease
+34,Female,no pain,120,79,203,179,0.5,upward,No Heart Disease
+66,Male,sometimes,157,102,305,140,3.3,downward,Heart Disease
+19,Female,no pain,104,67,172,197,0,upward,No Heart Disease
+84,Male,regular,181,115,353,114,4.8,downward,Heart Disease
+41,Female,normal,126,83,217,172,0.8,normal,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+26,Male,no pain,112,73,189,188,0.2,upward,No Heart Disease
+77,Female,regular,173,110,341,122,4.5,downward,Heart Disease
+38,Female,normal,123,81,211,175,0.6,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+32,Female,no pain,116,76,196,181,0.4,upward,No Heart Disease
+50,Male,sometimes,140,92,255,164,2,normal,Heart Disease
+22,Female,no pain,108,70,180,193,0.1,upward,No Heart Disease
+89,Male,regular,187,118,359,109,5.1,downward,Heart Disease
+44,Female,normal,129,85,227,169,1.1,normal,No Heart Disease
+70,Male,sometimes,161,104,320,136,3.5,downward,Heart Disease
+31,Female,no pain,115,75,193,182,0.3,upward,No Heart Disease
+55,Male,regular,154,100,295,153,3.2,downward,Heart Disease
+27,Female,normal,112,73,188,187,0.2,upward,No Heart Disease
+82,Male,regular,178,113,348,117,4.6,downward,Heart Disease
+47,Female,normal,131,86,230,167,1,normal,No Heart Disease
+63,Male,sometimes,152,98,285,148,2.8,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+53,Male,sometimes,143,93,263,162,2.1,normal,Heart Disease
+25,Male,no pain,110,72,185,190,0.2,upward,No Heart Disease
+91,Female,regular,189,119,363,106,5.3,downward,Heart Disease
+48,Female,normal,133,87,234,166,1.2,normal,No Heart Disease
+67,Male,regular,160,103,315,139,3.7,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+58,Male,sometimes,147,95,273,156,2.4,normal,Heart Disease
+29,Female,normal,113,74,190,185,0.2,upward,No Heart Disease
+87,Male,regular,184,116,356,112,5,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+73,Male,regular,168,107,335,128,4,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+61,Male,sometimes,150,97,280,150,2.6,downward,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+79,Male,regular,175,111,344,120,4.5,downward,Heart Disease
+43,Female,normal,127,83,219,170,0.8,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+56,Male,regular,156,101,299,150,3.3,downward,Heart Disease
+24,Female,normal,109,71,183,191,0.1,upward,No Heart Disease
+93,Male,regular,191,120,367,104,5.4,downward,Heart Disease
+54,Female,normal,138,89,248,161,1.6,normal,Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+75,Male,regular,171,109,339,123,4.4,downward,Heart Disease
+39,Female,normal,124,81,213,174,0.7,normal,No Heart Disease
+69,Male,sometimes,162,105,323,134,3.6,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+52,Male,regular,151,98,286,157,2.9,downward,Heart Disease
+23,Female,no pain,108,70,181,192,0.1,upward,No Heart Disease
+80,Male,regular,176,112,347,119,4.8,downward,Heart Disease
+46,Female,normal,130,85,226,168,1,normal,No Heart Disease
+66,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+57,Male,regular,157,101,303,147,3.3,downward,Heart Disease
+28,Female,normal,112,73,188,187,0.2,upward,No Heart Disease
+85,Male,regular,183,116,354,114,4.9,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+71,Male,regular,167,107,334,127,4,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+25,Female,no pain,110,72,185,190,0.2,upward,No Heart Disease
+95,Male,regular,194,122,370,102,5.6,downward,Heart Disease
+53,Female,normal,137,89,246,162,1.6,normal,Heart Disease
+70,Male,sometimes,163,105,325,133,3.7,downward,Heart Disease
+38,Male,no pain,122,80,209,176,0.5,upward,No Heart Disease
+65,Female,regular,159,103,310,140,3.5,downward,Heart Disease
+30,Female,normal,114,75,192,183,0.3,normal,No Heart Disease
+81,Male,regular,179,114,350,117,4.7,downward,Heart Disease
+45,Female,sometimes,132,86,235,167,1.3,normal,No Heart Disease
+62,Male,regular,153,99,290,146,3,downward,Heart Disease
+27,Female,no pain,111,72,186,188,0.2,upward,No Heart Disease
+78,Male,sometimes,173,110,342,121,4.4,downward,Heart Disease
+42,Female,normal,126,83,218,171,0.9,normal,No Heart Disease
+58,Male,sometimes,146,95,271,157,2.3,normal,Heart Disease
+21,Female,no pain,107,69,178,194,0,upward,No Heart Disease
+88,Male,regular,186,117,358,111,5.1,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+74,Male,regular,170,108,337,125,4.3,downward,Heart Disease
+36,Female,no pain,121,79,207,177,0.5,upward,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+24,Female,normal,109,71,182,191,0.1,upward,No Heart Disease
+90,Male,regular,188,118,360,108,5.2,downward,Heart Disease
+51,Female,sometimes,136,88,244,163,1.5,normal,No Heart Disease
+69,Male,regular,164,106,328,131,3.8,downward,Heart Disease
+33,Female,no pain,119,78,200,180,0.4,upward,No Heart Disease
+54,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+22,Female,no pain,108,70,180,193,0.1,upward,No Heart Disease
+76,Male,regular,172,110,340,123,4.4,downward,Heart Disease
+40,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+61,Male,sometimes,151,98,283,149,2.7,downward,Heart Disease
+29,Female,no pain,113,74,190,184,0.2,upward,No Heart Disease
+83,Male,regular,180,115,352,116,4.7,downward,Heart Disease
+47,Female,normal,131,85,229,167,1,normal,No Heart Disease
+67,Male,sometimes,159,103,313,137,3.6,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+56,Male,regular,156,101,299,150,3.3,downward,Heart Disease
+26,Male,normal,111,72,187,189,0.2,upward,No Heart Disease
+86,Female,regular,184,116,356,112,5,downward,Heart Disease
+44,Female,sometimes,130,85,230,168,1.2,normal,No Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+19,Female,no pain,104,67,172,197,0,upward,No Heart Disease
+91,Male,regular,189,119,363,106,5.3,downward,Heart Disease
+52,Female,normal,136,89,243,163,1.5,normal,No Heart Disease
+70,Male,regular,166,106,333,129,3.9,downward,Heart Disease
+31,Female,no pain,116,76,196,182,0.3,upward,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+28,Female,normal,112,73,188,187,0.2,upward,No Heart Disease
+82,Male,regular,178,113,348,117,4.6,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+68,Male,sometimes,160,104,318,138,3.6,downward,Heart Disease
+37,Female,no pain,123,80,209,176,0.6,upward,No Heart Disease
+55,Male,regular,154,100,295,153,3.2,downward,Heart Disease
+23,Male,no pain,109,71,184,192,0.1,upward,No Heart Disease
+79,Female,regular,174,111,343,120,4.6,downward,Heart Disease
+41,Female,normal,126,83,217,172,0.8,normal,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+84,Male,regular,181,115,353,114,4.8,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+66,Male,regular,161,104,321,136,3.6,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+57,Male,sometimes,146,95,268,157,2.3,normal,Heart Disease
+25,Female,no pain,110,72,185,190,0.2,upward,No Heart Disease
+92,Male,regular,190,120,365,105,5.4,downward,Heart Disease
+53,Female,normal,137,89,246,162,1.6,normal,Heart Disease
+73,Male,regular,169,108,336,126,4.2,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+27,Female,normal,111,72,186,188,0.2,upward,No Heart Disease
+87,Male,regular,185,117,357,111,5.1,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+69,Male,sometimes,162,105,323,134,3.6,downward,Heart Disease
+38,Female,no pain,123,81,211,175,0.6,upward,No Heart Disease
+54,Male,regular,153,99,290,154,3.1,downward,Heart Disease
+24,Male,no pain,109,71,183,191,0.1,upward,No Heart Disease
+80,Female,regular,176,112,347,119,4.8,downward,Heart Disease
+46,Female,normal,130,85,226,168,1,normal,No Heart Disease
+65,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+58,Male,regular,157,101,303,147,3.3,downward,Heart Disease
+29,Female,normal,113,74,190,185,0.2,upward,No Heart Disease
+85,Male,regular,183,116,354,114,4.9,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+71,Male,regular,167,107,334,127,4,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+26,Female,no pain,111,72,187,189,0.2,upward,No Heart Disease
+93,Male,regular,191,120,367,104,5.4,downward,Heart Disease
+55,Female,normal,139,90,249,160,1.7,normal,Heart Disease
+74,Male,regular,170,108,337,125,4.3,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+62,Male,sometimes,152,98,285,148,2.8,downward,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+78,Male,regular,174,111,343,121,4.5,downward,Heart Disease
+43,Female,normal,127,83,219,170,0.8,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+30,Male,no pain,114,75,192,183,0.3,upward,No Heart Disease
+89,Female,regular,187,118,359,109,5.1,downward,Heart Disease
+45,Female,sometimes,131,86,232,167,1.2,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+53,Male,sometimes,143,93,263,162,2.1,normal,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+77,Male,regular,173,110,342,122,4.4,downward,Heart Disease
+40,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+61,Male,sometimes,151,98,283,149,2.7,downward,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+81,Male,regular,179,114,350,117,4.7,downward,Heart Disease
+47,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+66,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+59,Male,regular,158,102,305,145,3.4,downward,Heart Disease
+22,Female,normal,108,70,180,193,0.1,upward,No Heart Disease
+94,Male,regular,193,121,369,103,5.5,downward,Heart Disease
+52,Female,sometimes,137,89,247,162,1.6,normal,No Heart Disease
+70,Male,regular,166,106,333,129,3.9,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+56,Male,sometimes,145,94,265,158,2.2,normal,Heart Disease
+24,Female,no pain,109,71,182,191,0.1,upward,No Heart Disease
+88,Male,regular,186,117,358,111,5.1,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+39,Female,no pain,124,81,213,174,0.7,upward,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+27,Male,normal,111,72,186,188,0.2,upward,No Heart Disease
+84,Female,regular,182,115,354,115,4.9,downward,Heart Disease
+43,Female,sometimes,129,85,227,169,1.1,normal,No Heart Disease
+67,Male,regular,160,103,315,139,3.7,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+23,Female,no pain,108,70,181,192,0.1,upward,No Heart Disease
+79,Male,regular,175,111,344,120,4.5,downward,Heart Disease
+42,Female,normal,126,83,218,171,0.9,normal,No Heart Disease
+62,Male,sometimes,152,98,285,148,2.8,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+86,Male,regular,184,116,356,112,5,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+71,Male,sometimes,165,106,330,132,3.8,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+58,Male,regular,157,101,303,147,3.3,downward,Heart Disease
+26,Female,normal,111,72,187,189,0.2,upward,No Heart Disease
+90,Male,regular,188,118,360,108,5.2,downward,Heart Disease
+54,Female,sometimes,138,89,248,161,1.6,normal,Heart Disease
+73,Male,regular,169,108,336,126,4.2,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+61,Male,sometimes,151,98,283,149,2.7,downward,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+76,Male,regular,172,110,340,123,4.4,downward,Heart Disease
+41,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+65,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+29,Female,no pain,113,74,190,184,0.2,upward,No Heart Disease
+83,Male,regular,180,115,352,116,4.7,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+69,Male,regular,164,106,328,131,3.8,downward,Heart Disease
+38,Female,no pain,123,81,211,175,0.6,upward,No Heart Disease
+57,Male,sometimes,146,95,268,157,2.3,normal,Heart Disease
+22,Female,no pain,108,70,180,193,0.1,upward,No Heart Disease
+95,Male,regular,194,122,370,102,5.6,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+70,Male,sometimes,163,105,325,133,3.7,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+52,Male,regular,151,98,286,157,2.9,downward,Heart Disease
+25,Male,no pain,110,72,185,190,0.2,upward,No Heart Disease
+87,Female,regular,185,117,357,111,5.1,downward,Heart Disease
+44,Female,sometimes,130,85,230,168,1.2,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+78,Male,regular,174,111,343,121,4.5,downward,Heart Disease
+43,Female,normal,127,83,219,170,0.8,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+92,Male,regular,190,120,365,105,5.4,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+66,Male,regular,161,104,321,136,3.6,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+27,Female,normal,111,72,186,188,0.2,upward,No Heart Disease
+85,Male,regular,183,116,354,114,4.9,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+67,Male,sometimes,159,103,313,137,3.6,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+56,Male,regular,156,101,299,150,3.3,downward,Heart Disease
+24,Male,no pain,109,71,182,191,0.1,upward,No Heart Disease
+81,Female,regular,179,114,350,117,4.7,downward,Heart Disease
+46,Female,sometimes,131,86,232,167,1.2,normal,No Heart Disease
+74,Male,regular,170,108,337,125,4.3,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+19,Female,no pain,104,67,172,197,0,upward,No Heart Disease
+89,Male,regular,187,118,359,109,5.1,downward,Heart Disease
+53,Female,normal,137,89,246,162,1.6,normal,Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+40,Female,no pain,125,82,216,173,0.7,upward,No Heart Disease
+58,Male,sometimes,147,95,273,156,2.4,normal,Heart Disease
+23,Female,no pain,108,70,181,192,0.1,upward,No Heart Disease
+77,Male,regular,173,110,342,122,4.4,downward,Heart Disease
+45,Female,normal,128,84,223,169,0.9,normal,No Heart Disease
+65,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+29,Female,no pain,113,74,190,184,0.2,upward,No Heart Disease
+82,Male,regular,178,113,348,117,4.6,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+70,Male,regular,166,106,333,129,3.9,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+54,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+26,Male,normal,111,72,187,189,0.2,upward,No Heart Disease
+91,Female,regular,189,119,363,106,5.3,downward,Heart Disease
+47,Female,sometimes,132,86,233,166,1.2,normal,No Heart Disease
+61,Male,regular,152,98,287,149,2.9,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+22,Female,no pain,107,69,178,194,0,upward,No Heart Disease
+80,Male,regular,176,112,347,119,4.8,downward,Heart Disease
+42,Female,normal,126,83,218,171,0.9,normal,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+86,Male,regular,184,116,356,112,5,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+69,Male,sometimes,162,105,323,134,3.6,downward,Heart Disease
+38,Female,no pain,123,81,211,175,0.6,upward,No Heart Disease
+57,Male,regular,156,101,300,148,3.3,downward,Heart Disease
+25,Female,normal,110,72,185,190,0.2,upward,No Heart Disease
+93,Male,regular,191,120,367,104,5.4,downward,Heart Disease
+52,Female,sometimes,136,89,245,162,1.5,normal,Heart Disease
+73,Male,regular,169,108,336,126,4.2,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+79,Male,regular,175,111,344,120,4.5,downward,Heart Disease
+41,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+29,Female,no pain,113,74,190,184,0.2,upward,No Heart Disease
+88,Male,regular,186,117,358,111,5.1,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+56,Male,sometimes,145,94,265,158,2.2,normal,Heart Disease
+24,Male,no pain,109,71,182,191,0.1,upward,No Heart Disease
+84,Female,regular,182,115,354,115,4.9,downward,Heart Disease
+44,Female,sometimes,130,85,230,168,1.2,normal,No Heart Disease
+66,Male,regular,161,104,321,136,3.6,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+58,Male,sometimes,147,95,273,156,2.4,normal,Heart Disease
+27,Female,normal,111,72,186,188,0.2,upward,No Heart Disease
+90,Male,regular,188,118,360,108,5.2,downward,Heart Disease
+53,Female,sometimes,137,89,246,162,1.6,normal,Heart Disease
+71,Male,regular,167,107,334,127,4,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+62,Male,sometimes,152,98,285,148,2.8,downward,Heart Disease
+23,Female,no pain,108,70,181,192,0.1,upward,No Heart Disease
+78,Male,regular,174,111,343,121,4.5,downward,Heart Disease
+43,Female,normal,127,83,219,170,0.8,normal,No Heart Disease
+67,Male,sometimes,159,103,313,137,3.6,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+87,Male,regular,185,117,357,111,5.1,downward,Heart Disease
+47,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+65,Male,regular,159,103,310,140,3.5,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+26,Male,normal,111,72,187,189,0.2,upward,No Heart Disease
+94,Female,regular,192,121,368,103,5.5,downward,Heart Disease
+45,Female,sometimes,131,86,232,167,1.2,normal,No Heart Disease
+75,Male,regular,171,109,339,123,4.4,downward,Heart Disease
+39,Female,no pain,124,81,213,174,0.7,upward,No Heart Disease
+54,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+83,Male,regular,180,115,352,116,4.7,downward,Heart Disease
+40,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+60,Male,regular,150,97,281,151,2.7,downward,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+81,Male,regular,179,114,350,117,4.7,downward,Heart Disease
+49,Female,normal,133,87,233,165,1.2,normal,No Heart Disease
+68,Male,sometimes,160,104,318,138,3.6,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+57,Male,regular,156,101,300,148,3.3,downward,Heart Disease
+22,Female,normal,107,69,179,194,0.1,upward,No Heart Disease
+89,Male,regular,187,118,359,109,5.1,downward,Heart Disease
+51,Female,sometimes,135,88,242,163,1.4,normal,No Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+25,Female,no pain,110,72,185,190,0.2,upward,No Heart Disease
+91,Male,regular,189,119,363,106,5.3,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+70,Male,sometimes,163,105,325,133,3.7,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+61,Male,regular,152,98,287,149,2.9,downward,Heart Disease
+19,Female,no pain,104,67,172,197,0,upward,No Heart Disease
+77,Male,regular,173,110,342,122,4.4,downward,Heart Disease
+42,Female,normal,126,83,218,171,0.9,normal,No Heart Disease
+63,Male,sometimes,154,100,292,145,3,downward,Heart Disease
+27,Male,no pain,111,72,186,188,0.2,upward,No Heart Disease
+85,Female,regular,183,116,354,114,4.9,downward,Heart Disease
+44,Female,sometimes,130,85,230,168,1.2,normal,No Heart Disease
+66,Male,regular,161,104,321,136,3.6,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+58,Male,sometimes,147,95,273,156,2.4,normal,Heart Disease
+24,Female,normal,109,71,182,191,0.1,upward,No Heart Disease
+92,Male,regular,190,120,365,105,5.4,downward,Heart Disease
+53,Female,sometimes,137,89,246,162,1.6,normal,Heart Disease
+74,Male,regular,170,108,337,125,4.3,downward,Heart Disease
+39,Female,no pain,124,81,213,174,0.7,upward,No Heart Disease
+56,Male,sometimes,145,94,265,158,2.2,normal,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+84,Male,regular,181,115,353,114,4.8,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+69,Male,sometimes,162,105,323,134,3.6,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+52,Male,regular,151,98,286,157,2.9,downward,Heart Disease
+23,Male,no pain,108,70,181,192,0.1,upward,No Heart Disease
+79,Female,regular,174,111,343,120,4.6,downward,Heart Disease
+46,Female,normal,130,85,226,168,1,normal,No Heart Disease
+67,Male,regular,160,103,315,139,3.7,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+82,Male,regular,178,113,348,117,4.6,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+71,Male,sometimes,165,106,330,132,3.8,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+59,Male,regular,158,102,305,145,3.4,downward,Heart Disease
+26,Female,normal,111,72,187,189,0.2,upward,No Heart Disease
+88,Male,regular,186,117,358,111,5.1,downward,Heart Disease
+51,Female,sometimes,135,88,242,163,1.4,normal,No Heart Disease
+73,Male,regular,169,108,336,126,4.2,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+86,Male,regular,184,116,356,112,5,downward,Heart Disease
+45,Female,normal,131,86,232,167,1.2,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+34,Male,no pain,119,78,201,179,0.5,upward,No Heart Disease
+90,Female,regular,188,118,360,108,5.2,downward,Heart Disease
+43,Female,sometimes,129,85,227,169,1.1,normal,No Heart Disease
+62,Male,regular,153,99,290,146,3,downward,Heart Disease
+22,Female,no pain,107,69,179,194,0.1,upward,No Heart Disease
+78,Male,regular,174,111,343,121,4.5,downward,Heart Disease
+40,Female,normal,125,82,216,173,0.7,normal,No Heart Disease
+58,Male,sometimes,147,95,273,156,2.4,normal,Heart Disease
+27,Female,no pain,111,72,186,188,0.2,upward,No Heart Disease
+80,Male,regular,176,112,347,119,4.8,downward,Heart Disease
+47,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+68,Male,sometimes,160,104,318,138,3.6,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+53,Male,regular,152,98,288,155,3,downward,Heart Disease
+24,Female,normal,109,71,182,191,0.1,upward,No Heart Disease
+95,Male,regular,194,122,370,102,5.6,downward,Heart Disease
+52,Female,normal,136,89,243,163,1.5,normal,No Heart Disease
+70,Male,regular,166,106,333,129,3.9,downward,Heart Disease
+39,Female,no pain,124,81,213,174,0.7,upward,No Heart Disease
+54,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+29,Male,no pain,113,74,190,184,0.2,upward,No Heart Disease
+83,Female,regular,180,115,352,116,4.7,downward,Heart Disease
+41,Female,sometimes,128,84,224,170,1,normal,No Heart Disease
+61,Male,regular,152,98,287,149,2.9,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+25,Female,no pain,110,72,185,190,0.2,upward,No Heart Disease
+87,Male,regular,185,117,357,111,5.1,downward,Heart Disease
+44,Female,normal,130,85,230,168,1.2,normal,No Heart Disease
+65,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+81,Male,regular,179,114,350,117,4.7,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+67,Male,regular,160,103,315,139,3.7,downward,Heart Disease
+38,Female,no pain,123,81,211,175,0.6,upward,No Heart Disease
+56,Male,sometimes,145,94,265,158,2.2,normal,Heart Disease
+23,Female,no pain,108,70,181,192,0.1,upward,No Heart Disease
+93,Male,regular,191,120,367,104,5.4,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+66,Male,sometimes,157,102,305,140,3.3,downward,Heart Disease
+35,Male,no pain,120,78,204,178,0.5,upward,No Heart Disease
+76,Female,regular,172,110,340,123,4.4,downward,Heart Disease
+40,Female,sometimes,127,83,222,171,0.9,normal,No Heart Disease
+63,Male,regular,154,100,292,145,3,downward,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+75,Male,regular,171,109,339,123,4.4,downward,Heart Disease
+46,Female,normal,130,85,226,168,1,normal,No Heart Disease
+62,Male,sometimes,152,98,285,148,2.8,downward,Heart Disease
+26,Female,no pain,111,72,187,189,0.2,upward,No Heart Disease
+84,Male,regular,181,115,353,114,4.8,downward,Heart Disease
+42,Female,normal,126,83,218,171,0.9,normal,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+21,Female,no pain,106,69,177,195,0,upward,No Heart Disease
+89,Male,regular,187,118,359,109,5.1,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+70,Male,sometimes,163,105,325,133,3.7,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+58,Male,regular,157,101,303,147,3.3,downward,Heart Disease
+24,Male,normal,109,71,182,191,0.1,upward,No Heart Disease
+82,Female,regular,178,113,348,117,4.6,downward,Heart Disease
+49,Female,sometimes,133,87,234,165,1.2,normal,No Heart Disease
+69,Male,regular,164,106,328,131,3.8,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+57,Male,sometimes,146,95,268,157,2.3,normal,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+94,Male,regular,193,121,369,103,5.5,downward,Heart Disease
+53,Female,normal,137,89,246,162,1.6,normal,Heart Disease
+72,Male,regular,168,107,335,128,4,downward,Heart Disease
+37,Female,no pain,122,80,208,176,0.6,upward,No Heart Disease
+61,Male,sometimes,151,98,283,149,2.7,downward,Heart Disease
+22,Female,no pain,107,69,178,194,0,upward,No Heart Disease
+78,Male,regular,174,111,343,121,4.5,downward,Heart Disease
+43,Female,normal,127,83,219,170,0.8,normal,No Heart Disease
+64,Male,sometimes,155,100,294,144,3.1,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
+88,Male,regular,186,117,358,111,5.1,downward,Heart Disease
+50,Female,normal,134,88,239,164,1.4,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+33,Male,no pain,118,77,198,180,0.4,upward,No Heart Disease
+54,Female,sometimes,143,93,263,161,2.1,normal,Heart Disease
+26,Female,no pain,111,72,187,189,0.2,upward,No Heart Disease
+90,Male,regular,188,118,360,108,5.2,downward,Heart Disease
+44,Female,normal,130,85,230,168,1.2,normal,No Heart Disease
+65,Male,sometimes,158,102,308,139,3.4,downward,Heart Disease
+28,Female,no pain,112,73,188,187,0.2,upward,No Heart Disease
+83,Male,regular,180,115,352,116,4.7,downward,Heart Disease
+45,Female,normal,131,86,232,167,1.2,normal,No Heart Disease
+67,Male,regular,160,103,315,139,3.7,downward,Heart Disease
+31,Female,no pain,116,76,195,182,0.3,upward,No Heart Disease
+59,Male,sometimes,148,96,275,152,2.4,normal,Heart Disease
+25,Female,normal,110,72,185,190,0.2,upward,No Heart Disease
+91,Male,regular,189,119,363,106,5.3,downward,Heart Disease
+52,Female,sometimes,136,89,245,162,1.5,normal,Heart Disease
+71,Male,regular,167,107,334,127,4,downward,Heart Disease
+35,Female,no pain,120,78,204,178,0.5,upward,No Heart Disease
+60,Male,sometimes,149,96,278,153,2.5,normal,Heart Disease
+23,Male,no pain,108,70,181,192,0.1,upward,No Heart Disease
+77,Female,regular,173,110,342,122,4.4,downward,Heart Disease
+41,Female,sometimes,128,84,224,170,1,normal,No Heart Disease
+62,Male,regular,153,99,290,146,3,downward,Heart Disease
+27,Female,no pain,111,72,186,188,0.2,upward,No Heart Disease
+85,Male,regular,183,116,354,114,4.9,downward,Heart Disease
+48,Female,normal,132,86,231,166,1.1,normal,No Heart Disease
+66,Male,sometimes,157,102,305,140,3.3,downward,Heart Disease
+32,Female,no pain,117,77,197,181,0.4,upward,No Heart Disease
+58,Male,regular,157,101,303,147,3.3,downward,Heart Disease
+21,Female,normal,106,69,177,195,0,upward,No Heart Disease
+92,Male,regular,190,120,365,105,5.4,downward,Heart Disease
+53,Female,normal,137,89,246,162,1.6,normal,Heart Disease
+74,Male,regular,170,108,337,125,4.3,downward,Heart Disease
+39,Female,no pain,124,81,213,174,0.7,upward,No Heart Disease
+55,Male,sometimes,144,94,264,161,2.2,normal,Heart Disease
+20,Female,no pain,105,68,175,196,0,upward,No Heart Disease
+84,Male,regular,181,115,353,114,4.8,downward,Heart Disease
+47,Female,normal,131,86,229,167,1,normal,No Heart Disease
+69,Male,sometimes,162,105,323,134,3.6,downward,Heart Disease
+36,Female,no pain,121,79,206,177,0.5,upward,No Heart Disease
+54,Male,regular,153,99,290,154,3.1,downward,Heart Disease
+24,Male,no pain,109,71,182,191,0.1,upward,No Heart Disease
+80,Female,regular,176,112,347,119,4.8,downward,Heart Disease
+46,Female,sometimes,131,86,232,167,1.2,normal,No Heart Disease
+68,Male,regular,163,106,325,133,3.7,downward,Heart Disease
+34,Female,no pain,119,78,201,179,0.5,upward,No Heart Disease
+57,Male,sometimes,146,95,268,157,2.3,normal,Heart Disease
+22,Female,no pain,107,69,178,194,0,upward,No Heart Disease
+89,Male,regular,187,118,359,109,5.1,downward,Heart Disease
+51,Female,normal,135,88,242,163,1.4,normal,No Heart Disease
+71,Male,sometimes,165,106,330,132,3.8,downward,Heart Disease
+33,Female,no pain,118,77,198,180,0.4,upward,No Heart Disease
+60,Male,regular,150,97,281,151,2.7,downward,Heart Disease
+28,Male,normal,112,73,188,187,0.2,upward,No Heart Disease
+87,Female,regular,185,117,357,111,5.1,downward,Heart Disease
+44,Female,sometimes,130,85,230,168,1.2,normal,No Heart Disease
+65,Male,regular,159,103,310,140,3.5,downward,Heart Disease
+30,Female,no pain,114,75,192,183,0.3,upward,No Heart Disease
